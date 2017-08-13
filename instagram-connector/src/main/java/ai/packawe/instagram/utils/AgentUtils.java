@@ -1,5 +1,5 @@
 
-package ai.pickaxe.instagram.utils;
+package ai.packawe.instagram.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;
