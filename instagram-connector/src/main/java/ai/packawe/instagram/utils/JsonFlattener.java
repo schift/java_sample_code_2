@@ -1,4 +1,4 @@
-package aw.pickaae.instagram.utils;
+package ai.packawe.instagram.utils;
 
 import java.util.HashMap;
 import java.util.LinkedList;
