@@ -1,4 +1,4 @@
-package ai.pickaxe.instagram.service;
+package ai.packawe.instagram.service;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
