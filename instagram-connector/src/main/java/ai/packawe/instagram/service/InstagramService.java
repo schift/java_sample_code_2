@@ -1,4 +1,4 @@
-package ai.pickaxe.instagram.service;
+package ai.packawe.instagram.service;
 
 import static org.apache.commons.lang.StringUtils.isNotBlank;
 
