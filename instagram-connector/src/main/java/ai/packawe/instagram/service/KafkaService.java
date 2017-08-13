@@ -1,4 +1,4 @@
-package ai.pickaxe.instagram.service;
+package ai.packawe.instagram.service;
 
 import static ai.pickaxe.instagram.utils.Constants.KAFKA_BROKER_LIST_PROP_NAME;
 import static ai.pickaxe.instagram.utils.Constants.KAFKA_MAX_MESSAGE_BYTES;
