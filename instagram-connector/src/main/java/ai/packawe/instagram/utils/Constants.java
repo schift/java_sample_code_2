@@ -1,4 +1,4 @@
-package ai.pickaxe.instagram.utils;
+package ai.packawe.instagram.utils;
 
 public class Constants {
 
